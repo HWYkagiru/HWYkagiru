@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=HWYkagiru&icon=5&color=1)](kagiru)
+[![](https://visitcount.itsvg.in/api?id=HWYkagiru&icon=5&color=1)](https://visitcount.itsvg.in/api?id=HWYkagiru&icon=5&color=1)
 ---
 # 🔥 About Me:
 👨‍💻️ Kagiru: Python Developer 🐍
