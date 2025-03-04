@@ -3,6 +3,7 @@
 # 🔥 About Me:
 👨‍💻️ Kagiru: Python Developer 🐍
 🌐Discord:  hwykagiru
+💲 ![Donate](https://ko-fi.com/kagiru)
 
 
 # 💻 Tech Stack:
