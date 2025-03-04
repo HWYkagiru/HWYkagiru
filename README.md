@@ -1,8 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=HWYkagiru&icon=5&color=1)](https://visitcount.itsvg.in/api?id=HWYkagiru&icon=5&color=1)
 ---
 # 🔥 About Me:
-👨‍💻️ Kagiru: Python Developer 🐍
+👨‍💻️ Kagiru: Python, lua and cpp Developer
+
 🌐Discord:  hwykagiru
+
 💲 [Donate](https://ko-fi.com/kagiru)
 
 
